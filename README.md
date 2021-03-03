@@ -1,2 +1,2 @@
 # rnaseq
-Processing pipelines and analysis frameworks for bulk-RNAseq data
+Lab processing pipelines and analysis frameworks for bulk-RNAseq data
